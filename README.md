@@ -9,7 +9,7 @@ overwhelming and stressful to complete even the simplest of tasks. Hopefully in 
 relax to some easy music, and find our center again.
 
 As Voltaire once said,
-"Life Is a Shipwreck, But We Must Not Forget To Sing in the Lifeboats" 
+"Life is a shipwreck, but we must not forget to sing in the lifeboats".
 
 Take care :)
 
