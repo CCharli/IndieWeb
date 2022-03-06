@@ -106,6 +106,7 @@ h1:hover {
 
 #nav-bur {
   list-style-type: none;
+  justify-content: space-evenly;
 }
 
 a {
