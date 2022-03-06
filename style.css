@@ -33,6 +33,7 @@ nav {
   margin: 20px;
   background-color: black;
   border-radius: 50% 30% / 8% 70%;
+  justify-content: space-evenly;
 }
 
 ul {
@@ -106,7 +107,6 @@ h1:hover {
 
 #nav-bur {
   list-style-type: none;
-  justify-content: space-evenly;
 }
 
 a {
