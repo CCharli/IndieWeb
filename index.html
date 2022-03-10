@@ -73,44 +73,19 @@
     </ul>
   </section>
   <h1> Suggestions / Just Want to Talk? </h1>
-    <form action="https://submit-form.com/HCj5Q58O" id="form">
-    <input type="hidden" name="_feedback.dark" value="true" />
-    <input
-    type="hidden"
-    name="_redirect"
-    value="https://ccharli.github.io/IndieWeb/"
-           />
-        <input
-    type="hidden"
-    name="_feedback.success.title"
-    value="Success! I look forward to talking with you :)"
-  />
-    <input
-           name="email"
-           id="email"
-           for="email"
-           type="email"
-           placeholder="What's your Email?"
-           required="" 
-           />
-      <input
-             name="Name"
-             id="Name"
-             for="name"
-             type="text"
-             placeholder="What's your name?"
-             required=""
-             />
-      <textarea
-           name="Submission"
-           for="message"
-           type="text"
-           rows="10"
-           columns="30"
-           placeholder="Tell me what you're thinking about :)"
-           required=""
-                ></textarea>
-     <button type="submit">Send</button>
+  <form action="https://submit-form.com/HCj5Q58O">
+  <label for="name">Name</label>
+  <input type="text" id="name" name="name" placeholder="Name" required="" />
+  <label for="email">Email</label>
+  <input type="email" id="email" name="email" placeholder="Email" required="" />
+  <label for="message">Message</label>
+  <textarea
+    id="message"
+    name="message"
+    placeholder="Message"
+    required=""
+  ></textarea>
+  <button type="submit">Send</button>
   </form>
   </body>
 </main>
